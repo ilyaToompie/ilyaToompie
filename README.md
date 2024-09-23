@@ -20,7 +20,7 @@
 
 ### Hey, I'm Ilya!
 
-# 💻 I'm into C#, Flutter, Unity!
+💻 I'm into C#, Flutter, Unity!
 
 previously Server administrator
 
