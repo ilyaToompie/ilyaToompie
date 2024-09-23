@@ -20,9 +20,8 @@
 
 ### Hey, I'm Ilya!
 
-💻 I'm into Arduino, C#, Flutter, Unity, Server administrator (Currently learning C#, Java)!
-
-
+💻 I'm into C#, Flutter, Unity!
+#previously Server administrator
 
 ### You can find me here:
 
