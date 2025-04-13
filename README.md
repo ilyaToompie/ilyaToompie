@@ -31,15 +31,7 @@
     <img src="https://img.shields.io/badge/Gmail-ilya.toompie@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
 </div>
 
----
-### Hey, I'm Ilya!
+### 联系我/Contact me/Свяжитесь со мной:
 
-💻 I'm into C#, Flutter, Unity!
-
-previously Server administrator
-
-### You can find me here:
-
-- 📱 **Telegram:** [@zxcpipidori](https://t.me/zxcpipidori)
-- 💬 **Discord:** [44iitoomp44ka](https://discord.gg/wH4Epq5C)
+- 📱 **Telegram:** [@kodikdodik](https://t.me/kodikdodik)
 - 📧 **Email:** [ilya.toompie@gmail.com](mailto:ilya.toompie@gmail.com)
