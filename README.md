@@ -18,18 +18,16 @@
 </div>
 
 <div align="left">
-  <a href="https://t.me/zxcpipidori">
+  <a href="https://t.me/kodikdodik">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
-  <a href="https://discord.gg/wH4Epq5C">
-    <img src="https://img.shields.io/badge/Discord-44iitoomp44ka-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> 
-  </a>
-</div>
-
-<div align="left">
+  <div align="left">
     <img src="https://img.shields.io/badge/Gmail-ilya.toompie@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
 </div>
+</div>
+
+
 
 ### 联系我/Contact me/Свяжитесь со мной:
 
