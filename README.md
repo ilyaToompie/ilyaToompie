@@ -17,5 +17,5 @@
 
 ### 联系我/Contact me/Свяжитесь со мной:
 
-- 📱 **Telegram:** [@kodikdodik](https://t.me/kodikdodik)
+- 📱 **Telegram:** [@toompie4](https://t.me/toompie4)
 - 📧 **Email:** [ilya.toompie@gmail.com](mailto:ilya.toompie@gmail.com)
